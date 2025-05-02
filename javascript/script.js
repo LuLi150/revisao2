@@ -6,6 +6,8 @@
 // } else{
 //     console.log(numero);
 // }
+//---------
+//-- descobre idade atual e se pode votar ou nao
 
 let dataDeNascimento=1990;
 let idade=2025-dataDeNascimento;

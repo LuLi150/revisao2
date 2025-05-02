@@ -1,4 +1,5 @@
-//  let senha=Number(prompt("Digite sua senha: "));
+// --notas de Aprovados,reprovados,recuperação 
+// let senha=Number(prompt("Digite sua senha: "));
 // console.log(nota);
 
 //  if (nota>=7){
@@ -9,13 +10,16 @@
 //   console.log("recuperacao");
 //  }
 //--------
+//--Só aceita senha 1234
+//
 // while (senha!==1234) {
 //     senha=Number(prompt("senha invalida. Tente Novamente"));
 // }
 // console.log("Acesso permitido");
 //----------
+//--Menus
+//
 // let opcao;
-
 // do {
 //     let nome= prompt("Qual seu nome?")
 //     opcao = Number(prompt(`
@@ -28,7 +32,8 @@
 // } while (opcao!==2);
 // console.log("Saiu!");
 //------
-
+//--verifica idade com true ou false
+//
 //  function verificarIdade(idade) {
 //     if (idade>=18){
 //         return true;  
@@ -37,6 +42,7 @@
 //  }
 // console.log(verificarIdade(15));
 //----------
+//--Numeros pares e impas
 
     for(let numero=1;numero<=10;numero++){
         if(numero % 2 == 0){
