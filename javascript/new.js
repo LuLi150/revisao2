@@ -1,7 +1,7 @@
-// --notas de Aprovados,reprovados,recuperação 
+// --Notas de Aprovados,reprovados,recuperação 
+
 // let senha=Number(prompt("Digite sua senha: "));
 // console.log(nota);
-
 //  if (nota>=7){
 //     console.log("Aprovado");
 //  } else if (nota<5){
@@ -11,14 +11,14 @@
 //  }
 //--------
 //--Só aceita senha 1234
-//
+
 // while (senha!==1234) {
 //     senha=Number(prompt("senha invalida. Tente Novamente"));
 // }
 // console.log("Acesso permitido");
 //----------
 //--Menus
-//
+
 // let opcao;
 // do {
 //     let nome= prompt("Qual seu nome?")
@@ -32,8 +32,8 @@
 // } while (opcao!==2);
 // console.log("Saiu!");
 //------
-//--verifica idade com true ou false
-//
+//--Verifica idade com true ou false
+
 //  function verificarIdade(idade) {
 //     if (idade>=18){
 //         return true;  
